@@ -1,8 +1,8 @@
-### Olá! Eu sou o Nilmar Machado
+### Hi, I'm Nilmar Machado
 
-- 🔭 Hoje trabalho como Front-End
-- 🌱 Estou estudando JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Today I work as a Front-End
+- 🌱 I'm studying JavaScript
+- 😄 Pronouns: He/His
 
 <div align="center">
   <a href="https://github.com/NilmarAxe">
