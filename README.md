@@ -10,7 +10,7 @@
 |---|---|
 <br>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NilmarAxe&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NilmarAxe&theme=github_dark)<img align="right" height="200" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/fbd3b908-473c-4afb-a587-5be4d0a83d1f"  />
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NilmarAxe&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NilmarAxe&theme=github_dark)<img align="center" height="200" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/fbd3b908-473c-4afb-a587-5be4d0a83d1f"  />
 |---|
 
 ###
