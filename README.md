@@ -2,15 +2,15 @@
 
 ###
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilmarAxe&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NilmarAxe&theme=github_dark&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilmarAxe&theme=midnight_purple)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NilmarAxe&theme=midnight_purple&utcOffset=8)|
 |---|---|
 <br> 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=NilmarAxe&theme=github_dark&hide_border=false)|![Nilmar Machado's Stats](https://github-readme-stats.vercel.app/api?username=NilmarAxe&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NilmarAxe&theme=midnight-purple)](https://git.io/streak-stats)|![Nilmar Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilmarAxe&theme=midnight-purple&show_icons=true)
 |---|---|
 <br>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NilmarAxe&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NilmarAxe&theme=github_dark)<img align="center" height="200" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/fbd3b908-473c-4afb-a587-5be4d0a83d1f"  />
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NilmarAxe&theme=midnight_purple)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NilmarAxe&theme=midnight_purple)<img align="center" height="200" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/fbd3b908-473c-4afb-a587-5be4d0a83d1f"  />
 |---|
 
 ###
