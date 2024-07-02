@@ -17,7 +17,7 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <h2 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me</h2>
 
-<picture> <img align="right" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9e749302-928c-4784-aaa7-bdd8b7947d68" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9e749302-928c-4784-aaa7-bdd8b7947d68" width = 260px></picture>
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;" align="left">
@@ -27,7 +27,8 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
             <li>✔ Languages: English, Spanish, Portuguese (Brazil) </li>
             <li>✔ Pronouns: He/Him </li>
             <li>✔ Love: Anime, manga, games, lo-fi music, scientific films and series</li>
-            <li>✔ Hobbies: Passionate about technology, devours books, dives into anime and manga, and gazes at the stars at night.</li>
+            <li>✔ Hobbies: Tech enthusiast, enjoys piano music while playing chess, anime and manga lover.</li>
+            <li>✔ Focus: Innovative solutions, real-time data, open-source, and learning DevOps. </li>
         </ul>
     </div>
 </div>
