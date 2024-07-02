@@ -1,3 +1,6 @@
+
+<img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/5041f0d7-81bd-4d5f-bcbb-d5da1a903f07">
+
 <h2 align="left">Hi 👋! My name is Nilmar A. Machado, and I'm a Software Developer, from Brazil.</h2>
 
 ###
