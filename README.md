@@ -19,6 +19,23 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
+<picture> <img align="right" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9e749302-928c-4784-aaa7-bdd8b7947d68" width = 220px></picture>
+
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;" align="left">
+        <ul style="list-style-type: none; padding: 0;">
+            <li>✔ Call me: He/His 😊</li>
+            <li>✔ Currently learning: Generative AI, NLP, AI, algorithms, DevOps, and web development 🥰</li>
+            <li>✔ Seeking collaboration: Open Source projects</li>
+            <li>✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉</li>
+            <li>✔ Competitive coder, undergraduate at UOM</li>
+            <li>✔ Hobbies: coding, comics, manga, manhwa, anime, TV series, films, and sleep lover 😎</li>
+        </ul>
+    </div>
+</div>
+
+<hr>
+
 ###
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilmarAxe&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NilmarAxe&theme=github_dark&utcOffset=8)|
