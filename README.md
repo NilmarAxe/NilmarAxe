@@ -4,7 +4,14 @@
 
 <hr>
 
-<h2 align="left">Hi 👋! My name is Nilmar A. Machado, and I'm a Software Developer, from Brazil.</h2>
+<p align="center">
+  <em>
+ Hello, I am Nilmar A. Machado, a student at Universidade do Vale do Rio dos Sinos (Unisinos).
+
+I am a passionate self-learner and a Fullstack Developer, who is obsessed with programming and constantly evolving my skills. I love technology as much as I love anime and manga, always striving to create innovative solutions and tackle challenging problems.
+</em>
+
+<hr>
 
 ###
 
