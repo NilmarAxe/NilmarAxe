@@ -15,6 +15,10 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<hr>
+
 ###
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilmarAxe&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NilmarAxe&theme=github_dark&utcOffset=8)|
