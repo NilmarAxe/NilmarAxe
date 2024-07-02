@@ -26,9 +26,9 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
             <li>✔ Codename: Nilmar Axe </li>
             <li>✔ Languages: English, Spanish, Portuguese (Brazil) </li>
             <li>✔ Pronouns: He/Him </li>
-            <li>✔ Love: Anime, manga, games, lo-fi music, scientific films and series</li>
-            <li>✔ Hobbies: Tech enthusiast, enjoys piano music while playing chess, anime.</li>
-            <li>✔ Focus: Innovative solutions, real-time data, open-source, and learning DevOps. </li>
+            <li>✔ Love: Anime, manga, games, lo-fi music, scientific films and series </li>
+            <li>✔ Hobbies: Exploring technology and coding, playing chess, and enjoying anime and manga </li>
+            <li>✔ Focus: Innovative solutions, real-time data, open-source, and learning DevOps </li>
         </ul>
     </div>
 </div>
