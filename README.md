@@ -17,8 +17,6 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<hr>
-
 <picture> <img align="right" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9e749302-928c-4784-aaa7-bdd8b7947d68" width = 220px></picture>
 
 <div style="display: flex; align-items: flex-start;">
