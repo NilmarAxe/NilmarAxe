@@ -52,7 +52,7 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
-<h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9a875374-0959-4f84-bef1-bf831f0981b0" width="50px" height="50px"> Contacts</h2>
+<h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/994be6f1-f6e8-4fe8-a940-d918b35d4725" width="45px" height="45px"> Contacts</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nilmarmachado/" target="_blank">
@@ -63,9 +63,9 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
   </a>
 </div>
 
-###
+<hr>
 
-<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+<h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9a875374-0959-4f84-bef1-bf831f0981b0" width="45px" height="45px">Skills</h2>
 
 <table align="left">
 
@@ -98,9 +98,9 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 </table>
 
-###
-
 <br clear="both">
+
+<hr>
 
 <img src="https://raw.githubusercontent.com/NilmarAxe/NilmarAxe/output/snake.svg" alt="Snake animation" />
 
