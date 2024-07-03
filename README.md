@@ -52,7 +52,7 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
-<h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9a875374-0959-4f84-bef1-bf831f0981b0" width="50px" height="50px"> Contacts:</h2>
+<h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9a875374-0959-4f84-bef1-bf831f0981b0" width="50px" height="50px"> Contacts</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nilmarmachado/" target="_blank">
