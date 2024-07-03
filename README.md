@@ -36,7 +36,8 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
-###
+<div align="center" width="100">
+  <h1>Statistics</h1>
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilmarAxe&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NilmarAxe&theme=github_dark&utcOffset=8)|
 |---|---|
