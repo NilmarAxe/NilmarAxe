@@ -52,38 +52,45 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
-<h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/9a875374-0959-4f84-bef1-bf831f0981b0" width="45px" height="45px">Skills</h2>
+<div align="center">
+  <h1>Tech Stack</h1>
+  
+ <br>
+  <h3>Languages</h3>
+  
+  <hr>
 
-<table align="left">
+  [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
+  [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+  [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+  [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+  [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Java
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    
-</tr>
+   <br>
+  <h3>Frameworks</h3>
+  
+  <hr>
 
-</table>
+  [![Flask](https://skillicons.dev/icons?i=flask&theme=dark)](https://skillicons.dev)
+
+  <br>
+  <h3>Storages</h3>
+  
+  <hr>
+
+  [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+
+  <br>
+  <h3>Tools</h3>
+  
+  <hr>
+
+  [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev)
+  [![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+  [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
+  [![Notion](https://skillicons.dev/icons?i=notion&theme=dark)](https://skillicons.dev)
+  [![PhotoShop](https://skillicons.dev/icons?i=ps&theme=dark)](https://skillicons.dev)
+  [![After Effects](https://skillicons.dev/icons?i=ae&theme=dark)](https://skillicons.dev)
 
 <br clear="both">
 
