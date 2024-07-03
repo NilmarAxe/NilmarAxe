@@ -112,6 +112,9 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
+<div align="center">
+  <h1>◅(´⌯ ̫⌯`)▻</h1>
+
 <img src="https://raw.githubusercontent.com/NilmarAxe/NilmarAxe/output/snake.svg" alt="Snake animation" />
 
-###
+<hr>
