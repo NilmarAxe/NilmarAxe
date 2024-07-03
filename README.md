@@ -118,3 +118,9 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 <img src="https://raw.githubusercontent.com/NilmarAxe/NilmarAxe/output/snake.svg" alt="Snake animation" />
 
 <hr>
+
+## Thanks for Visiting!
+
+<p align="center">
+  <img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/3e14ae9e-07b4-47f3-b310-1a3483f78e75" alt="misato" height="230" width="90%">
+</p>
