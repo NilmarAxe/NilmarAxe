@@ -96,9 +96,11 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 
 <hr>
 
-<h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/994be6f1-f6e8-4fe8-a940-d918b35d4725" width="45px" height="45px"> Contacts</h2>
+ <div align="center">
+  <h1>Contacts</h1>
 
-<div align="left">
+
+<div align="center">
   <a href="mailto:nilmarmachadoaxe@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="gmail logo"  />
   </a>
