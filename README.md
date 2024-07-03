@@ -29,7 +29,7 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
             <li>✔ Love: Anime, manga, games, lo-fi music, scientific films and series </li>
             <li>✔ Hobbies: Anime, manga, coding, and chess enthusiast. Fascinated by stargazing </li>
             <li>✔ Focus: Innovative solutions, real-time data, open-source, and learning DevOps </li>
-            <li>✔ (─‿‿─)</li>
+            <li>✔ Fav.Anime: Neon Genesis Evangelion, Code Geass, Cowboy Bebop, Monster, InuYasha </li>
         </ul>
     </div>
 </div>
