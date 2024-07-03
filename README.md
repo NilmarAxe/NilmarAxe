@@ -47,10 +47,10 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 |---|---|
 <br>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NilmarAxe&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NilmarAxe&theme=github_dark)<img align="center" height="200" src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/fbd3b908-473c-4afb-a587-5be4d0a83d1f"  />
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NilmarAxe&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NilmarAxe&theme=github_dark) 
 |---|
 
-###
+<hr>
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
