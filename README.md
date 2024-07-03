@@ -92,11 +92,12 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 <h2><img src="https://github.com/NilmarAxe/NilmarAxe/assets/116046115/994be6f1-f6e8-4fe8-a940-d918b35d4725" width="45px" height="45px"> Contacts</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nilmarmachado/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="linkedin logo"  />
-  </a>
   <a href="mailto:nilmarmachadoaxe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" alt="gmail logo"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nilmarmachado/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" alt="gmail logo"  />
   </a>
 </div>
 
