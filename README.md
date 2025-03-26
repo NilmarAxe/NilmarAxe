@@ -43,7 +43,7 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
 |---|---|
 <br> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NilmarAxe&theme=github-dark-blue)](https://git.io/streak-stats)|![Nilmar Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilmarAxe&theme=github_dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats-snowy-one.vercel.app?user=NilmarAxe&theme=github-dark-blue)](https://git.io/streak-stats)|![Nilmar Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=NilmarAxe&theme=github_dark&show_icons=true)
 |---|---|
 <br>
 
