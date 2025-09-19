@@ -24,8 +24,8 @@ I am a passionate self-learner and a Fullstack Developer, who is obsessed with p
         <ul style="list-style-type: none; padding: 0;">
             <li>✔ Name: Nilmar Antunes Machado </li>
             <li>✔ Codename: Nilmar Axe </li>
-            <li>✔ Languages: English, Spanish, Portuguese (Brazil) </li>
-            <li>✔ Pronouns: He/Him </li>
+            <li>✔ Languages: English, Spanish, Brazilian Portuguese </li>
+            <li>✔ Pronouns: he/him </li>
             <li>✔ Love: Anime, manga, games, lo-fi music, scientific films and series </li>
             <li>✔ Hobbies: Anime, manga, coding, and chess enthusiast. Fascinated by stargazing </li>
             <li>✔ Focus: Innovative solutions, real-time data, open-source, and learning cybersecurity </li>
